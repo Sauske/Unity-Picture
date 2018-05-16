@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cameraview_library/cameraview_library.iml" filepath="$PROJECT_DIR$/cameraview_library/cameraview_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fcamera.iml" filepath="$PROJECT_DIR$/fcamera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fcamera_library/fcamera_library.iml" filepath="$PROJECT_DIR$/fcamera_library/fcamera_library.iml" />
+      <module fileurl="file://E:\Unity-FCamera\FCameraLibrary\Android\fcamera\fcamera_library\flibrary.iml" filepath="E:\Unity-FCamera\FCameraLibrary\Android\fcamera\fcamera_library\flibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luaban_library/luaban_library.iml" filepath="$PROJECT_DIR$/luaban_library/luaban_library.iml" />
+    </modules>
+  </component>
+</project>

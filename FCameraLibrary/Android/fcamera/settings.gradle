@@ -1,0 +1,1 @@
+include ':app', ':cameraview_library', ':fcamera_library', ':luaban_library'
